@@ -1,0 +1,23 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "Week 10 Homework",
+  "main": "teamreadme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkuebler12/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkuebler12/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/tkuebler12/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
